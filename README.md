@@ -1,0 +1,4 @@
+videotheque
+===========
+
+initialisation du projet.
